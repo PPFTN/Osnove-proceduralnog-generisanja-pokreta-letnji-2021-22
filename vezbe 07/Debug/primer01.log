@@ -1,0 +1,3 @@
+﻿  main.c
+D:\asst\opgp\github\Osnove-proceduralnog-generisanja-pokreta-letnji-2021-22\vezbe 07\main.c(105,12): warning C4013: 'time' undefined; assuming extern returning int
+  primer01.vcxproj -> D:\asst\opgp\github\Osnove-proceduralnog-generisanja-pokreta-letnji-2021-22\vezbe 07\Debug\primer01.exe
